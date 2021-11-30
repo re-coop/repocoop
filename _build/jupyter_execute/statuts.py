@@ -211,3 +211,132 @@
 # 2. L'assemblée générale décide sous respect de l'art. 860, al. 1 CO du montant affecté aux réserves de bénéfices légales et facultatives.
 # 
 # 3. Le comité décide de la mise à contribution des réserves issues de bénéfices, moyennant observation de l'art. 860, al. 3 CO.
+
+# ### Art. 22 Réserves et ajustements de valeurs
+# 
+# 1. Le compte d'exploitation doit être grevé chaque année de versements appropriés au fonds de rénovation, axés sur la stratégie de la coopérative en la matière.
+# 
+# 2. Il s'agit de tenir compte de la dépréciation des immeubles par des amortissements adéquats et réguliers. Ceux-ci se fondent généralement sur les directives de l'administration des contributions et figurent au bilan selon la méthode indirecte. Si la coopérative est titulaire d'un droit de superficie, le compte d'exploitation est débité chaque année d'un versement aux ajustements de valeurs pour le droit de retour gratuit des constructions. Si le montant de ces ajustements peut être déterminé au préalable, conformément aux conditions des contrats de droit de superficie, c'est ce montant qui sera raisonnablement pris en compte et, sans quoi, les amortissements admissibles au plan fiscal.
+# 
+# 3. Pour des logements subventionnés par l'Etat, les réserves et ajustements de valeurs doivent correspondre aux prescriptions régissant l'aide au logement.
+# 
+# 4. L'assemblée générale peut, dans les limites des art. 862 et 863 CO, décider d'alimenter d'autres fonds.
+# 
+# 5. Les moyens mis à disposition des fonds sont gérés et utilisés par le comité, conformément au but décidé; ils sont contrôlés dans le cadre de la comptabilité générale, resp. par l'organe de révision et l'expert agréé pour
+# un contrôle limité.
+
+# ### Art. 23 Indemnité des organes
+# 
+# 1. Les membres du comité ont droit à une indemnité raisonnable qui se fonde sur les tâches et la charge de travail des membres respectifs, et qui est fixée par le comité lui-même.
+# 
+# 2. L'indemnité de l'organe de révision, resp. de l'expert agréé pour un contrôle limité est fixée en fonction des tarifs usuels de la branche.
+# 
+# 3. Les membres de commissions et de délégations ont droit à un jeton de présence d'un montant raisonnable.
+# 
+# 4. Le versement de tantièmes est exclu. Tantièmes exclus
+# 
+# 5. Le montant total des indemnités versées aux membres du comité - ventilées entre indemnités de séance, indemnités pour activité de construction et autres travaux effectués pour la coopérative - ainsi que pour d'autres commissions instituées par l'assemblée générale doit figurer dans le compte d'exploitation.
+# 
+# 6. De plus, seront remboursés les frais engagés dans l'intérêt de la coopérative par des membres du comité, de l'organe de révision ou par l'expert agréé pour un contrôle limité ainsi que par des commissions.
+
+# ## 5. Organisation
+# 
+# ## Organes
+# 
+# ### Art. 24 Vue d'ensemble
+# 
+# Les organes de la coopérative sont:
+# * a) l'assemblée générale,
+# * b) le comité,
+# * c) l'organe de révision.
+
+# ## Assemblée générale
+# 
+# ### Art. 25 Compétences
+# 
+# 1. L'assemblée générale dispose des compétences suivantes:
+# * a) Adoption et modification des statuts;
+# * b) Election et révocation du président, du co-président ainsi que des autres membres du comité et de l'organe de révision;
+# * c) Approbation du rapport annuel du comité;
+# * d) Approbation des comptes annuels et décision sur l'affectation du bénéfice figurant au bilan;
+# * e) Décharge des membres du comité;
+# * f) Décision sur recours contre des décisions d'exclusion émises par le comité;
+# * g) Décision sur la vente de terrains, immeubles et logements et sur l'octroi de droits de superficie distincts et permanents;
+# * h) Décision sur l'achat de terrains et/ou la construction de nouveaux bâtiments dont les coûts dépassent 20% de la valeur d'investissement de
+# tous les biens-fonds (sans les amortissements);
+# * i) Décision sur la démolition de bâtiments d'habitation et la construction d'immeubles de remplacement;
+# * j) Décision sur la dissolution ou la fusion de la coopérative;
+# * k) Approbation de règlements, dans la mesure où ceux-ci ne relèvent pas expressément de la compétence du comité;
+# * l) Décision sur des objets portés à l'ordre du jour sur proposition de membres, pour autant que ces objets soient soumis à la décision de l'assemblée générale (art. 25, al. 2);
+# * m) Décision sur tout autre objet réservé à l'assemblée générale par la loi ou les statuts, ou qui lui est soumis par le comité.
+#  
+# 2. Les propositions de membres de porter un objet à l'ordre du jour selon let. l) doivent parvenir par écrit au comité, au plus tard 60 jours avant l'assemblée
+# générale ordinaire. La date de l'assemblée générale doit être communiquée au moins trois mois au préalable.
+# 
+# 3. Seuls peuvent être soumis au vote les objets qui ont été portés à l'ordre du jour. Pour déposer des propositions dans le cadre de l'ordre du jour, il n'y a pas besoin d'annonce préalable.
+
+# ### Art. 26 Convocation et direction de l'assemblée
+# 
+# 1. L'Assemblée générale ordinaire a lieu une fois par an,  durant le premier semestre de l'année civile.
+# 
+# 2. Les assemblées générales extraordinaires sont convoquées pour autant qu'une assemblée générale précédente, le comité et l'organe de révision ou les liquidateurs le décident, ou si le dixième des membres l'exige. Si la coopérative compte moins de 30 membres, la convocation doit être demandée par trois membres au moins. La convocation doit avoir lieu dans le délai de huit semaines à dater de la réception de la demande.
+# 
+# 3. L'assemblée générale doit être convoquée par le comité, au moins 20 jours avant le jour de l'assemblée. Dans la convocation doivent figurer l'ordre du jour et, en cas de propositions de modification des statuts, le texte des modifications proposées. Il y a lieu de joindre à la convocation aux assemblées générales ordinaires le rapport annuel (art. 30, al. 2), y compris le rapport de l'organe de révision ou de l'expert agréé pour un contrôle limité; ces documents doivent également être déposés 20 jours avant la date de l'assemblée, pour consultation, au siège social de la coopérative.
+# 
+# 4. L'assemblée générale est dirigée par le président ou le co-président ou par un membre du comité. Elle peut, sur proposition du comité, élire un président du jour.
+
+# ### Art. 27 Droit de vote
+# 
+# 1. Chaque membre dispose d'une voix à l'assemblée générale. 
+# 
+# 2. Il peut s'y faire représenter par un autre membre moyennant procuration écrite. Personne ne peut représenter plus d'un autre membre.
+# 
+# 3. Lors de décisions sur la décharge des membres du comité, ceux-ci n'ont pas le droit de voter.
+
+# ### Art. 28 Décisions et élections
+# 
+# 1. L'assemblée générale est apte à décider valablement lorsqu'elle a été convoquée conformément aux statuts.
+# 
+# 2. Elections et votes ont lieu à main levée, sauf si un tiers des voix émises exige le vote à bulletin secret.
+# 
+# 3. L'assemblée générale prend ses décisions à la majorité simple des voix exprimées. Pour les élections s'applique au premier tour de scrutin la majorité absolue, et au deuxième, la majorité relative. Les abstentions et les suffrages nuls ne sont pas pris en compte pour la détermination de la majorité.
+# 
+# 4. Pour l'achat de biens-fonds et l'octroi de droits de superficie distincts et permanents, pour les modifications des statuts ainsi que la dissolution et la fusion de la coopérative, il faut l'approbation des deux tiers des voix émises.
+# 
+# 5. Les art. 889 CO et 18, al. 1, let. d de la loi sur fusion (LFus) demeurent réservés.
+# 
+# 6. Un procès-verbal est rédigé pour les décisions et les résultats d'élections, qui doit être signé par le président et par son rédacteur.
+
+# ## Comité
+# 
+# ### Art. 29 Election et éligibilité
+# 
+# 1. Le comité se compose de cinq personnes. Il doit être composé en majorité de membres de la coopérative. Le président ou le co-président est élu par l'assemblée générale; pour le reste, le comité se constitue lui-même. Il désigne un rédacteur du procès-verbal qui n'a pas obligation de faire partie du comité.
+# 
+# 2. Les membres du comité sont élus pour trois ans et sont rééligibles. Des élections au cours d'une période de fonction sont valables jusqu'à l'échéance de cette période. La durée maximale de fonction est de douze ans.
+# 
+# 3. Tous les membres du comité sont tenus de se récuser si des affaires sont traitées, qui touchent à leurs propres intérêts ou aux intérêts de personnes physiques ou morales qui leur sont proches. Les membres du comité prenant la décision ont obligation de conclure l'affaire en question au maximum aux conditions de tiers (valeur du marché). Dans de tels cas, le contrat doit revêtir la forme écrite. Cette exigence ne s'applique pas aux opérations courantes pour lesquelles la prestation de la société ne dépasse pas 1'000 CHF. Si le comité tout entier doit se récuser, il y a lieu de requérir pour l'affaire une décision d'approbation de l'assemblée générale.
+
+# ### Art. 30 Tâches
+# 
+# 1. Dans les limites des dispositions légales et statutaires, le comité est compétent pour l'administration et pour toutes les affaires de la coopérative qui ne sont pas expressément réservées à un autre organe. 
+# 
+# 2. Le comité établit pour chaque exercice un rapport de gestion qui se compose des comptes annuels (art. 20) et du rapport annuel. Le rapport annuel présente l'évolution des affaires ainsi que la situation économique de la coopérative et fournit l'attestation de contrôle de l'organe de révision ou de l'expert agréé pour un contrôle limité.
+# 
+# 3. Il désigne les personnes habilitées à signer et le mode de signature, seule la signature collective à deux pouvant leur être accordée.
+
+# ### Art. 31 Délégation de compétence
+# 
+# 1. Le comité est habilité à confier la gestion des affaires ou certains secteurs de celle-ci a un ou plusieurs de ses membres (délégations), à des commissions permanentes ou ad hoc et/ou à une ou plusieurs personne/s qui à cet effet n'ont pas obligation d'être membres de la coopérative (direction). Les membres de commissions n'ont pas à être membres de la coopérative.
+# 
+# 2. Le comité édicte un règlement d'organisation qui fixe les tâches du comité, des délégations, commissions ainsi que de la direction et règle notamment la question des rapports à présenter.
+
+# ### Art. 32 Séances du comité
+# 
+# 1. Les séances du comité sont convoquées par la présidence ou la co-présidence, aussi souvent que les affaires l'exigent et, en outre, lorsque deux membres du comité en demandent la convocation.
+# 
+# 2. Le comité peut prendre valablement des décisions en présence de la majorité de ses membres. Il décide à la majorité simple des voix émises. En cas d'égalité des voix, celle du président est prépondérante.
+# 
+# 3. Dans la mesure où aucun membre du comité n'exige les débats oraux et que la majorité des membres du comité y consent, des décisions prises par voie circulaire écrite sans voix contraire sont réputées décisions valables du comité, même celles communiquées par e-mail ou fax. Elles doivent être consignées au procès-verbal de la prochaine séance.
+# 
+# 4. Les délibérations et décisions du comité sont consignées dans un procèsverbal qui doit être signé par le président et par son rédacteur.
