@@ -1,4 +1,4 @@
-# Bienvenue¶
+# Bienvenue
 
 Re-Co est une société coopérative qui a pour mission la création de valeur pour ses membres via la construction d’habitations en zone urbaine grâce à une vision novatrice de l’architecture.
 
@@ -10,7 +10,7 @@ Re-Co se fixe comme objectif de créer de l’habitat à loyer abordable via une
 
 Il nous tient à coeur de partager les documents fondateurs, ainsi que les outils que nous utilisons, de façon open-source et sous licence permissive, de façon à ce que quiconque puisse utiliser ce matériel pour construire sa propre coopérative d'habitation. 
 
-## Pourquoi une coopérative ?¶
+## Pourquoi une coopérative ?
 
 La forme de la coopérative nous intéresse de par sa nature participative. C’est une société puissante, dont la particularité est d’offrir à chaque membre une voix égale, sans égard aux parts possédées dans l’entreprise. Cette décentralisation de la gouvernance, si elle est favorisée par une utilisation innovante des technologies de la communication, est une force et un atout.
 
@@ -18,7 +18,8 @@ Les avantages du produit délivré sont consommés par les membres eux-mêmes, d
 
 Chaque membre de la coopérative est à la fois client et serveur. L’énergie qu’il investit dans Re-Co est une énergie qui lui revient sous forme d’avantages, à part égale avec tous les autres membres. Au-delà de la coopération de personnes physiques, la coopérative permet aussi l’entraide de divers corps de métier et entreprises dans une perspective de bénéfices mutuels.
 
-Nos ambitions à long terme ?¶
+## Nos ambitions à long terme ?
+
 Notre processus de travail consiste à dupliquer un grand nombre de fois des projets de petite à moyenne envergure, dans une démarche impliquant des artisans locaux dès que faire se peut, ainsi qu’un maximum de matériaux bio-sourcés, en cherchant à limiter l’empreinte carbone de nos constructions.
 
 Construire avec du bon sens, en prenant en compte les savoirs-faire traditionnels, les matériaux locaux, l'expertise qui nous entoure et en impliquant au maximum nos interlocuteurs dans l'élaboration des projets. 
