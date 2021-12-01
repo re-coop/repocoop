@@ -216,20 +216,20 @@
 # 
 # 1. Le compte d'exploitation doit être grevé chaque année de versements appropriés au fonds de rénovation, axés sur la stratégie de la coopérative en la matière.
 # 
-# 2. Il s'agit de tenir compte de la dépréciation des immeubles par des amortissements adéquats et réguliers. Ceux-ci se fondent généralement sur les directives de l'administration des contributions et figurent au bilan selon la méthode indirecte. Si la coopérative est titulaire d'un droit de superficie, le compte d'exploitation est débité chaque année d'un versement aux ajustements de valeurs pour le droit de retour gratuit des constructions. Si le montant de ces ajustements peut être déterminé au préalable, conformément aux conditions des contrats de droit de superficie, c'est ce montant qui sera
-# raisonnablement pris en compte et, sans quoi, les amortissements admissibles au plan fiscal.
+# 2. Il s'agit de tenir compte de la dépréciation des immeubles par des amortissements adéquats et réguliers. Ceux-ci se fondent généralement sur les directives de l'administration des contributions et figurent au bilan selon la méthode indirecte. Si la coopérative est titulaire d'un droit de superficie, le compte d'exploitation est débité chaque année d'un versement aux ajustements de valeurs pour le droit de retour gratuit des constructions. Si le montant de ces ajustements peut être déterminé au préalable, conformément aux conditions des contrats de droit de superficie, c'est ce montant qui sera raisonnablement pris en compte et, sans quoi, les amortissements admissibles au plan fiscal.
 # 
 # 3. Pour des logements subventionnés par l'Etat, les réserves et ajustements de valeurs doivent correspondre aux prescriptions régissant l'aide au logement.
 # 
 # 4. L'assemblée générale peut, dans les limites des art. 862 et 863 CO, décider d'alimenter d'autres fonds.
 # 
-# 5. Les moyens mis à disposition des fonds sont gérés et utilisés par le comité, conformément au but décidé; ils sont contrôlés dans le cadre de la comptabilité générale, resp. par l'organe de révision et l'expert agréé pour un contrôle limité.
+# 5. Les moyens mis à disposition des fonds sont gérés et utilisés par le comité, conformément au but décidé; ils sont contrôlés dans le cadre de la comptabilité générale, resp. par l'organe de révision et l'expert agréé pour
+# un contrôle limité.
 
 # ### Art. 23 Indemnité des organes
 # 
 # 1. Les membres du comité ont droit à une indemnité raisonnable qui se fonde sur les tâches et la charge de travail des membres respectifs, et qui est fixée par le comité lui-même.
 # 
-# 2. L'indemnité de l'organe de révision, resp. de l'expert agréé pour un contrôle limité est fixée en fonction des tarifs usuels de la branche. 
+# 2. L'indemnité de l'organe de révision, resp. de l'expert agréé pour un contrôle limité est fixée en fonction des tarifs usuels de la branche.
 # 
 # 3. Les membres de commissions et de délégations ont droit à un jeton de présence d'un montant raisonnable.
 # 
@@ -250,7 +250,7 @@
 # * b) le comité,
 # * c) l'organe de révision.
 
-# ### Assemblée générale
+# ## Assemblée générale
 # 
 # ### Art. 25 Compétences
 # 
@@ -262,22 +262,22 @@
 # * e) Décharge des membres du comité;
 # * f) Décision sur recours contre des décisions d'exclusion émises par le comité;
 # * g) Décision sur la vente de terrains, immeubles et logements et sur l'octroi de droits de superficie distincts et permanents;
-# * h) Décision sur l'achat de terrains et/ou la construction de nouveaux bâtiments dont les coûts dépassent 20% de la valeur d'investissement de tous les biens-fonds (sans les amortissements);
+# * h) Décision sur l'achat de terrains et/ou la construction de nouveaux bâtiments dont les coûts dépassent 20% de la valeur d'investissement de
+# tous les biens-fonds (sans les amortissements);
 # * i) Décision sur la démolition de bâtiments d'habitation et la construction d'immeubles de remplacement;
 # * j) Décision sur la dissolution ou la fusion de la coopérative;
 # * k) Approbation de règlements, dans la mesure où ceux-ci ne relèvent pas expressément de la compétence du comité;
 # * l) Décision sur des objets portés à l'ordre du jour sur proposition de membres, pour autant que ces objets soient soumis à la décision de l'assemblée générale (art. 25, al. 2);
 # * m) Décision sur tout autre objet réservé à l'assemblée générale par la loi ou les statuts, ou qui lui est soumis par le comité.
-# 
-# 2. Les propositions de membres de porter un objet à l'ordre du jour selon let.
-# * l) doivent parvenir par écrit au comité, au plus tard 60 jours avant l'assemblée générale ordinaire. La date de l'assemblée générale doit être communiquée au moins trois mois au préalable.
+#  
+# 2. Les propositions de membres de porter un objet à l'ordre du jour selon let. l) doivent parvenir par écrit au comité, au plus tard 60 jours avant l'assemblée
+# générale ordinaire. La date de l'assemblée générale doit être communiquée au moins trois mois au préalable.
 # 
 # 3. Seuls peuvent être soumis au vote les objets qui ont été portés à l'ordre du jour. Pour déposer des propositions dans le cadre de l'ordre du jour, il n'y a pas besoin d'annonce préalable.
-# 
 
-# ### Art. 26 Convocation et direction de l'assemblée
+# ### Art. 26 Convocation et direction de l'assemblée
 # 
-# 1. L'Assemblée générale ordinaire a lieu une fois par an, durant le premier semestre de l'année civile.
+# 1. L'Assemblée générale ordinaire a lieu une fois par an,  durant le premier semestre de l'année civile.
 # 
 # 2. Les assemblées générales extraordinaires sont convoquées pour autant qu'une assemblée générale précédente, le comité et l'organe de révision ou les liquidateurs le décident, ou si le dixième des membres l'exige. Si la coopérative compte moins de 30 membres, la convocation doit être demandée par trois membres au moins. La convocation doit avoir lieu dans le délai de huit semaines à dater de la réception de la demande.
 # 
@@ -287,7 +287,7 @@
 
 # ### Art. 27 Droit de vote
 # 
-# 1. Chaque membre dispose d'une voix à l'assemblée générale. Principe
+# 1. Chaque membre dispose d'une voix à l'assemblée générale. 
 # 
 # 2. Il peut s'y faire représenter par un autre membre moyennant procuration écrite. Personne ne peut représenter plus d'un autre membre.
 # 
@@ -307,7 +307,7 @@
 # 
 # 6. Un procès-verbal est rédigé pour les décisions et les résultats d'élections, qui doit être signé par le président et par son rédacteur.
 
-# ### Comité
+# ## Comité
 # 
 # ### Art. 29 Election et éligibilité
 # 
@@ -317,9 +317,9 @@
 # 
 # 3. Tous les membres du comité sont tenus de se récuser si des affaires sont traitées, qui touchent à leurs propres intérêts ou aux intérêts de personnes physiques ou morales qui leur sont proches. Les membres du comité prenant la décision ont obligation de conclure l'affaire en question au maximum aux conditions de tiers (valeur du marché). Dans de tels cas, le contrat doit revêtir la forme écrite. Cette exigence ne s'applique pas aux opérations courantes pour lesquelles la prestation de la société ne dépasse pas 1'000 CHF. Si le comité tout entier doit se récuser, il y a lieu de requérir pour l'affaire une décision d'approbation de l'assemblée générale.
 
-# ### Art. 30 Tâches
+# ### Art. 30 Tâches
 # 
-# 1. Dans les limites des dispositions légales et statutaires, le comité est compétent pour l'administration et pour toutes les affaires de la coopérative qui ne sont pas expressément réservées à un autre organe.
+# 1. Dans les limites des dispositions légales et statutaires, le comité est compétent pour l'administration et pour toutes les affaires de la coopérative qui ne sont pas expressément réservées à un autre organe. 
 # 
 # 2. Le comité établit pour chaque exercice un rapport de gestion qui se compose des comptes annuels (art. 20) et du rapport annuel. Le rapport annuel présente l'évolution des affaires ainsi que la situation économique de la coopérative et fournit l'attestation de contrôle de l'organe de révision ou de l'expert agréé pour un contrôle limité.
 # 
@@ -331,7 +331,7 @@
 # 
 # 2. Le comité édicte un règlement d'organisation qui fixe les tâches du comité, des délégations, commissions ainsi que de la direction et règle notamment la question des rapports à présenter.
 
-# ### Art. 32 Séances du comité
+# ### Art. 32 Séances du comité
 # 
 # 1. Les séances du comité sont convoquées par la présidence ou la co-présidence, aussi souvent que les affaires l'exigent et, en outre, lorsque deux membres du comité en demandent la convocation.
 # 
@@ -339,56 +339,4 @@
 # 
 # 3. Dans la mesure où aucun membre du comité n'exige les débats oraux et que la majorité des membres du comité y consent, des décisions prises par voie circulaire écrite sans voix contraire sont réputées décisions valables du comité, même celles communiquées par e-mail ou fax. Elles doivent être consignées au procès-verbal de la prochaine séance.
 # 
-# 4. Les délibérations et décisions du comité sont consignées dans un procès verbal qui doit être signé par le président et par son rédacteur.
-
-# ### Organe de révision
-# 
-# ### Art. 33 Election et constitution
-# 
-# 1. A titre d'organe de révision, l'assemblée générale élit un réviseur ou une entreprise de révision agréés selon la loi sur la surveillance de la révision (art. 5 s. LSR et art. 727c CO), toujours pour un exercice annuel jusqu'à l'approbation des comptes annuels en question.
-# 
-# 2. L'assemblée générale peut renoncer à l'élection d'un tel organe (opting out) si:
-# * a) la coopérative n'est pas tenue à une révision ordinaire;
-# * b) tous les membres de la coopérative approuvent ce renoncement;
-# * c) la coopérative n'a pas plus de dix postes à temps complet en moyenne durant l'année;
-# * d) aucun autre motif légal ou contractuel ne contraint la coopérative à une révision.
-# 
-# 3. Si l'assemblée générale renonce à l'élection d'un organe de révision, le comité mandate en lieu et place un réviseur agréé par l'Office fédéral du logement pour qu'il procède à un contrôle selon ses directives.
-
-# ### Art. 34 Tâches
-# 
-# 1. Si l'assemblée générale élit un organe de révision, celui-ci  exécute un contrôle restreint selon art. 729 ss CO. Les tâches et la responsabilité de l'organe de révision se fondent sur les dispositions légales.
-# 
-# 2. Si en lieu et place, la coopérative a décidé l'opting out, les tâches et la responsabilité du réviseur agréé sont régies par les directives y relatives de l'Office fédéral du logement (OFL).
-# 
-# 3. L'organe de révision ou le réviseur agréé OFL soumet à l'assemblée générale ordinaire un rapport écrit.
-
-# ## 6. Dispositions finales
-# 
-# ### Dissolution par liquidation et fusion
-# 
-# ### Art. 35 Liquidation
-# 
-# 1. Une assemblée générale spécialement convoquée à cette fin peut en tout temps décider de la dissolution de la coopérative par voie de liquidation.
-# 
-# 2. Le comité exécute la liquidation conformément aux dispositions de la loi et des statuts, pour autant que l'assemblée générale ne mandate pas un liquidateur spécial pour ce faire.
-
-# ### Art. 36 Excédent de liquidation
-# 
-# 1. La fortune résiduelle de la coopérative après extinction de toutes les dettes et le remboursement de toutes les parts de coopératives à la valeur nominale sera totalement transférée à la Fondation fonds de solidarité de coopératives d'habitation Suisse - fédération des maîtres d'ouvrage d'utilité publique.
-# 
-# 2. Demeurent réservées des dispositions contraires de la Confédération, du canton ou de communes ou d'autres institutions encore, en matière d'aide au logement.
-
-# ### Art. 37 Fusion
-# 
-# 1. L'assemblée générale peut décider en tout temps de la fusion de la coopérative avec un autre maître d'ouvrage d'utilité publique.
-# 
-# 2. La préparation de la fusion est l'affaire du comité. Il peut cependant demander au préalable un vote de l'assemblée générale à titre consultatif.
-
-# ### Communications
-# 
-# ### Art. 38 Communications et organe de publication
-# 
-# 1. Les communications internes de la coopérative à l'attention des membres et les convocations se font par écrit, par voie d'e-mail ou de circulaire, à défaut de dispositions contraires impératives prévues par la loi.
-# 
-# 2. L'organe de publication de la coopérative est la Feuille officielle suisse du commerce.
+# 4. Les délibérations et décisions du comité sont consignées dans un procèsverbal qui doit être signé par le président et par son rédacteur.
