@@ -25,5 +25,3 @@ Notre processus de travail consiste à dupliquer un grand nombre de fois des pro
 Construire avec du bon sens, en prenant en compte les savoirs-faire traditionnels, les matériaux locaux, l'expertise qui nous entoure et en impliquant au maximum nos interlocuteurs dans l'élaboration des projets. 
 
 À terme, Re-Co aimerait également favoriser l’imitation de ses protocoles de fonctionnement, de ses outils de gestion, de sa structure, de ses productions, dans une démarche open-source consistant à fournir à quiconque aimerait créer sa propre structure coopérative toutes les productions qui en auront émané.
-
-# Test GitHub actions 211
