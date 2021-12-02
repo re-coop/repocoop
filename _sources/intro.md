@@ -24,3 +24,6 @@ Construire avec du bon sens, en prenant en compte les savoirs-faire traditionnel
 
 [Notre plaquette de présentation](http://re-co.ch/files/plaquette.pdf)
 
+
+## Test d'autobuild. 
+
