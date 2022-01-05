@@ -22,4 +22,4 @@ Construire avec du bon sens, en prenant en compte les savoirs-faire traditionnel
 
 À terme, Re-Co aimerait également favoriser l’imitation de ses protocoles de fonctionnement, de ses outils de gestion, de sa structure, de ses productions, dans une démarche open-source consistant à fournir à quiconque aimerait créer sa propre structure coopérative toutes les productions qui en auront émané. 
 
-[Notre plaquette de présentation](http://re-co.ch/files/plaquette.pdf)
+[Notre plaquette de présentation](https://github.com/re-coop/repocoop/blob/main/plaquette.pdf)
