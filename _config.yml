@@ -4,6 +4,7 @@
 title: Société coopérative d'habitation
 author: Coopérative Re-Co
 logo: logo.png
+html_favicon: favicon.ico
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
