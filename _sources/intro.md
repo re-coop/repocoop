@@ -2,7 +2,7 @@
 
 Re-Co est une société coopérative qui a pour mission la création de valeur pour ses membres via la construction d’habitations en zone urbaine grâce à une vision novatrice de l’architecture.
 
-Plutôt que des réalisations uniques et de Grande envergure, nous préférons la reproduction de créations modestes. 
+Plutôt que des réalisations uniques et de grande envergure, nous préférons la reproduction de créations modestes. 
 
 Re-Co se fixe comme objectif de créer de l’habitat à loyer abordable via une utilisation optimale de types d’intervention particuliers sur des espaces constructibles en zone urbaine : la rénovation, la surélévation, la complémentation et la réaffectation. Ces types d’intervention seront détaillées dans la suite du dossier.
 
